@@ -6,6 +6,8 @@
 | --- | --- | --- |
 | spring-cloud-nacos |  |  |
 | spring-cloud-nacos-config-client |  |  |
+| spring-cloud-nacos-discovery-client |  |  |
 | spring-cloud-nacos-dependencies |  |  |
 | spring-cloud-starter-nacos-client |  |  |
+
 
